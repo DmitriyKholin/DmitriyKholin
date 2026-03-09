@@ -53,7 +53,7 @@ CRM-бот в Telegram для записи клиентов на услуги д
 ## Контакты
 - Kwork: https://kwork.ru/user/genflow
          https://kwork.ru/user/dev0python
-- Telegram: @DmitriyKh0
+- Telegram: https://t.me/DmitriyKh0
 - Email: bcezbs@gmail.com
 
 Открыт к фриланс-заказам и сотрудничеству.
