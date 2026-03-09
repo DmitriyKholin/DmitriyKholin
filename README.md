@@ -125,7 +125,7 @@ Telegram-бот для автоматизации записи клиентов 
 ## 📬 Контакты
 
 - Telegram: [@YOUR_USERNAME](https://t.me/DmitriyKh0) [@YOUR_USERNAME](https://t.me/dev0python)
-- Kwork: [ваша ссылка на профиль](https://kwork.ru/user/genflow) [ваша ссылка на профиль](https://kwork.ru/user/dev0python)
+- Kwork: [https://kwork.ru/user/genflow](https://kwork.ru/user/genflow) [https://kwork.ru/user/dev0python](https://kwork.ru/user/dev0python)
 - Email: `bcezbs@gmail.com`
 
 ---
